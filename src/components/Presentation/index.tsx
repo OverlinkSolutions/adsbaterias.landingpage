@@ -4,23 +4,20 @@ import "./styles.css";
 
 export function Presentation() {
   return (
-    <div className="container" style={{ marginTop: 64 }}>
+    <div className="container presentation-container">
       <div className="row g-4">
-        <div className="col-md-6 col-sm-12 d-flex flex-column align-items-center justify-content-center ">
+        <div className="col-md-8 col-sm-12 d-flex flex-column justify-content-center ">
           <h3 className="title">
-            A melhor distribuidora do nordeste!
+            Tenha tráfego que converta!
           </h3>
           <div className="description">
-            Na Fort Distribuidora, oferecemos uma linha completa de materiais de
-            construção para atender suas necessidades, desde pequenas reformas
-            até grandes obras. Garantimos que você receba o que precisa, quando
-            e onde for necessário.
+            Venda suas baterias online de forma eficiente e rápida.
           </div>
         </div>
 
-        <div className="col-md-6 col-sm-12">
+        <div className="col-md-4 col-sm-12">
           <img
-            className="rounded img-fluid"
+            className="rounded img-fluid floating"
             style={{
               width: "100%",
               maxHeight: 350,

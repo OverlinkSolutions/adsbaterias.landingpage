@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Move build to /var/www/fortdist
+      - name: Move build to /var/www/baterias
         run: |
-          rm -rf /var/www/fortdist/*
-          mv build/* /var/www/fortdist/
+          rm -rf /var/www/baterias/*
+          mv build/* /var/www/baterias/

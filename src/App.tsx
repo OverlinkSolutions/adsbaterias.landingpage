@@ -1,9 +1,8 @@
-import Brands from "./components/Brands";
-import { Cards } from "./components/Cards";
+
+import { Description } from "./components/Description";
 import { Footer } from "./components/Footer";
 import FrontBanner from "./components/FrontBanner";
 import Header from "./components/Header/Header";
-import { MapContact } from "./components/MapContact";
 import Materials from "./components/Materials";
 import { Presentation } from "./components/Presentation";
 import Space from "./components/Space/Space";
@@ -18,13 +17,14 @@ function App() {
       }}
     >
       <Header />
-      <FrontBanner />
-      <Space />
+      {/* <FrontBanner /> */}
+      {/* <Space /> */}
       <Presentation />
       <Materials />
-      <Cards />
-      <Brands />
-      <MapContact />
+      <Description />
+      {/* <Cards /> */}
+      {/* <Brands /> */}
+      {/* <MapContact /> */}
       <Footer />
     </div>
   );

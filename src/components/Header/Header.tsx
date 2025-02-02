@@ -46,11 +46,11 @@ export default function Header() {
             }}
           >
             <div>
-              <img src={Logo} height="33" alt="Fazenda Modelo Logo" />
+              <img src={Logo} height="33" alt="Fazenda ADS Baterias" />
             </div>
               <a
                 style={{ textDecoration: "none" }}
-                href="https://api.whatsapp.com/send?phone=5579999614009"
+                href="https://api.whatsapp.com/send?phone=TBD"
               >
                 <button
                   style={{
