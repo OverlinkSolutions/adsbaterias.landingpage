@@ -1,37 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.15ba5df5.css",
-    "main.js": "/static/js/main.f1c324a8.js",
-    "static/media/presentation.png": "/static/media/presentation.9e2d268efca62ada9af4.png",
-    "static/media/banner1.png": "/static/media/banner1.4855881eceb4fde28bc8.png",
-    "static/media/dryko.png": "/static/media/dryko.a897eab61472acc5e3a5.png",
-    "static/media/hidrotintas.png": "/static/media/hidrotintas.bc5c8f101e1811593398.png",
-    "static/media/avant.png": "/static/media/avant.c4fe8a3a01c142e3f742.png",
-    "static/media/herc.png": "/static/media/herc.dfeeb15f540ba3d32fe9.png",
-    "static/media/krona.png": "/static/media/krona.5ffd50ae5bf0860823a4.png",
-    "static/media/soqualidade.png": "/static/media/soqualidade.4fbecb8ef99ed86bb863.png",
-    "static/media/8.png": "/static/media/8.1a9cd4c64c9e7509549f.png",
-    "static/media/1.png": "/static/media/1.802f0046c67b99087652.png",
-    "static/media/7.png": "/static/media/7.4c3b511e5f8882c4c603.png",
-    "static/media/6.png": "/static/media/6.6bfd15b61e4d4f0e3b9a.png",
-    "static/media/4.png": "/static/media/4.4a0b7cbd25981820a0ee.png",
-    "static/media/3.png": "/static/media/3.5abb149f53fa945e2c64.png",
-    "static/media/2.png": "/static/media/2.090dfc1e366dcd672c8f.png",
-    "static/media/5.png": "/static/media/5.cfd866f3548f924b934e.png",
+    "main.css": "/static/css/main.73f5cdb1.css",
+    "main.js": "/static/js/main.504f496f.js",
+    "static/media/presentation.png": "/static/media/presentation.30d5e9714af1ee0f9606.png",
+    "static/media/description.png": "/static/media/description.8c40751ae62946c1ddfc.png",
+    "static/media/logo.png": "/static/media/logo.7389003c55eec6b6997c.png",
     "static/media/instagram.png": "/static/media/instagram.2a3acc19c1f5de8d9054.png",
     "static/media/whatsapp.png": "/static/media/whatsapp.e84777018ac3307894fd.png",
-    "static/media/map-pin.svg": "/static/media/map-pin.6093ca618b604c4b08c7116886c099ea.svg",
-    "static/media/wheelbarrow.svg": "/static/media/wheelbarrow.b8a497c83f57743bfd25d58e3ce800f1.svg",
-    "static/media/electricity.svg": "/static/media/electricity.322f2bedad6e12e061a41f9788637ddb.svg",
-    "static/media/phone.svg": "/static/media/phone.862d5fca61235a47f1af0e475da98936.svg",
-    "static/media/door-lock.svg": "/static/media/door-lock.42f2d13ac7e2d0a430dd40b73b3ae11b.svg",
-    "static/media/plumbering.svg": "/static/media/plumbering.d986c7575c733414c8ff36b4704af2af.svg",
     "index.html": "/index.html",
-    "main.15ba5df5.css.map": "/static/css/main.15ba5df5.css.map",
-    "main.f1c324a8.js.map": "/static/js/main.f1c324a8.js.map"
+    "main.73f5cdb1.css.map": "/static/css/main.73f5cdb1.css.map",
+    "main.504f496f.js.map": "/static/js/main.504f496f.js.map"
   },
   "entrypoints": [
-    "static/css/main.15ba5df5.css",
-    "static/js/main.f1c324a8.js"
+    "static/css/main.73f5cdb1.css",
+    "static/js/main.504f496f.js"
   ]
 }
