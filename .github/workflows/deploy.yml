@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Move build to /var/www/baterias
+      - name: Move build to /var/www/adsbaterias
         run: |
-          rm -rf /var/www/baterias/*
-          mv build/* /var/www/baterias/
+          rm -rf /var/www/adsbaterias/*
+          mv build/* /var/www/adsbaterias/
