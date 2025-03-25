@@ -5,7 +5,7 @@ import "./styles.css";
 export function Presentation() {
   return (
     <div className="container presentation-container">
-      <div className="row g-4">
+      <div className="row g-4 content-container">
         <div className="col-md-8 col-sm-12 d-flex flex-column justify-content-center ">
           <h3 className="title">
             Tenha tráfego que converta!

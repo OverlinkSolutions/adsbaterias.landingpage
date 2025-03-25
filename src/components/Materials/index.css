@@ -6,7 +6,7 @@
 .card-title {
   font-size: 1.3rem;
   color: var(--primary-color);
-  word-break: break-all;
+  word-break: keep-all;
   font-weight: bold;
 }
 

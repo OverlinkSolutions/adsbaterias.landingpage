@@ -8,8 +8,8 @@ export default function Materials() {
   return (
     <div className="container" style={{ marginTop: 64 }}>
       <div className="row g-4 d-flex">
-        <div className="col-6 col-md-3 d-flex">
-          <div className="card-material border p-8 d-flex gap-3 flex-column justify-content-center align-items-center">
+        <div className="col-12 col-sm-6 col-md-3 d-flex">
+          <div className="card-material border p-8 d-flex gap-2 flex-column justify-content-center align-items-center">
             <img src={AdsIcon} className="card-icon" />
             <span className="card-title">Gestão de anúncios</span>
             <span className="text-center card-description">
@@ -17,8 +17,8 @@ export default function Materials() {
             </span>
           </div>
         </div>
-        <div className="col-6 col-md-3 d-flex">
-          <div className="card-material border p-8 d-flex gap-3 flex-column justify-content-center align-items-center">
+        <div className="col-12 col-sm-6 col-md-3 d-flex">
+          <div className="card-material border p-8 d-flex gap-2 flex-column justify-content-center align-items-center">
             <img src={FunilIcon} className="card-icon" />
             <span className="card-title">Atração de clientes</span>
             <span className="text-center card-description">
@@ -26,8 +26,8 @@ export default function Materials() {
             </span>
           </div>
         </div>
-        <div className="col-6 col-md-3 d-flex">
-          <div className="card-material border p-8 d-flex gap-3 flex-column justify-content-center align-items-center">
+        <div className="col-12 col-sm-6 col-md-3 d-flex">
+          <div className="card-material border p-8 d-flex gap-2 flex-column justify-content-center align-items-center">
           <img src={ShopIcon} className="card-icon" />
             <span className="card-title">Abasteça seu atendimento</span>
             <span className="text-center card-description">
@@ -35,8 +35,8 @@ export default function Materials() {
             </span>
           </div>
         </div>
-        <div className="col-6 col-md-3 d-flex">
-          <div className="card-material border d-flex gap-3 flex-column justify-content-center align-items-center">
+        <div className="col-12 col-sm-6 col-md-3 d-flex">
+          <div className="card-material border d-flex gap-2 flex-column justify-content-center align-items-center">
           <img src={Profit} className="card-icon" />
             <span className="card-title">Maior previsibilidade</span>
             <span className="text-center card-description">
